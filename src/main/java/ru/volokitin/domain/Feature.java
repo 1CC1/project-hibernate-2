@@ -4,7 +4,7 @@ import static java.util.Objects.isNull;
 
 public enum Feature {
     TRAILERS("Trailers"),
-    Commentaries("Commentaries"),
+    COMMENTARIES("Commentaries"),
     DELETED_SCENES("Deleted Scenes"),
     BEHIND_THE_SCENES("Behind the Scenes");
 
